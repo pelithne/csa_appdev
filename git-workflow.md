@@ -52,8 +52,6 @@ When you want to push your branch to your remote, when its time to create a Pull
 git push -u kalle the_cool_heartbeat_feature
 ````
 
-This is only necessary the first time, after that a normal `git push` will do.
-
 After all work is done make sure to fetch and rebase on top of master to be current:
 
 ````bash
@@ -73,7 +71,7 @@ Make sure to use your branch as the source, and **master** as your destination.
 
 ## Reviewing
 
-Ideally someone should approve the PR with a **thumbs up** or similar, before merging (but this is not NASA, so who cares...)
+Ideally someone should approve the PR with a **thumbs up** or similar, before merging (but this is not NASA, so...)
 
 Once approved (ideally by someone who is not YOU), merge the PR into master.
 
