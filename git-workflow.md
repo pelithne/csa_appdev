@@ -1,6 +1,6 @@
 # How we use git
 
-Lets use a workflow where master is the development branch, but as stable as possible.
+Lets use a workflow where master is a sort of development branch, but as stable as possible.
 
 ## Setup
 To start work on a project first checkout the original:
