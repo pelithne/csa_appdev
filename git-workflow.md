@@ -15,7 +15,7 @@ To start hacking, you need to fork the repo to your own account on Github. Use t
   <img width="80%" hspace="0" src="./media/fork.JPG">
 </p>
 
-It´s a good idea to use the name of the fork owner as the remote name
+When you have forked it, you need to add the fork as a ***remote** from your local development environment. It´s a good idea to use the name of the fork owner as the remote name. Something like this:
 
 ````bash
 git remote add kalle git@github.com:kalle/csa_appdev.git
